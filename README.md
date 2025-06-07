@@ -15,5 +15,5 @@ The visualizations aim to highlight trends, dependencies on certain fuel types, 
 
 ## Data Sources
 
-The data used in this analysis is sourced [Monthly electricity data - long format (CSV)](https://storage.googleapis.com/emb-prod-bkt-publicdata/public-downloads/monthly_full_release_long_format.csv). This dataset is made available by Ember on its website.
+The data used in this analysis is sourced from [Monthly electricity data - long format (CSV)](https://storage.googleapis.com/emb-prod-bkt-publicdata/public-downloads/monthly_full_release_long_format.csv). This dataset is made available by Ember on its website.
 
